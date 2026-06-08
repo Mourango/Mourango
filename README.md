@@ -81,8 +81,6 @@ Portfólio profissional focado em Cyber Security.
 * IBSEC – Analista SOC
 * IBSEC – Fundamentos em Cibersegurança
 * IBSEC – Boas Práticas de Cibersegurança
-* Cisco Networking Academy – Introdução à Cibersegurança
-* LetsDefend – Fundamentos de SOC
 
 ---
 
