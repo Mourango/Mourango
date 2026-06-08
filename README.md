@@ -1,16 +1,26 @@
-## Hi there 👋
+# Gabriel Moura
 
-<!--
-**Mourango/Mourango** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Analista SOC Júnior
 
-Here are some ideas to get you started:
+## Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente atuo como Analista SOC N1 realizando:
+
+- Monitoramento de eventos
+- Investigação de alertas
+- IBM QRadar
+- Google SecOps
+- MITRE ATT&CK
+- Threat Intelligence
+
+## Projetos
+
+- SOC Labs
+- SOC Playbooks
+- Simulados
+- Currículo Interativo
+
+## Contato
+
+LinkedIn:
+https://linkedin.com/in/moura22
