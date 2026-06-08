@@ -1,26 +1,41 @@
-# Gabriel Moura
+# 👋 Gabriel Moura
 
-Analista SOC Júnior
+## Analista SOC Júnior
 
-## Sobre mim
+Atualmente atuando em um SOC 24x7 realizando monitoramento, triagem e investigação de eventos de segurança.
 
-Atualmente atuo como Analista SOC N1 realizando:
+### 🔎 Tecnologias
 
-- Monitoramento de eventos
-- Investigação de alertas
 - IBM QRadar
 - Google SecOps
 - MITRE ATT&CK
 - Threat Intelligence
+- Windows Security Events
+- Active Directory
 
-## Projetos
+### 📚 Formação
+
+- Tecnólogo em Gestão da Tecnologia da Informação (Concluído)
+- Tecnólogo em Defesa Cibernética (Cursando)
+
+### 🎯 Áreas de Interesse
+
+- Security Operations Center (SOC)
+- Incident Response
+- Threat Hunting
+- Detection Engineering
+- Blue Team
+
+### 📂 Projetos
+
+🚧 Em construção
 
 - SOC Labs
 - SOC Playbooks
-- Simulados
-- Currículo Interativo
+- SOC Assessments
+- Interactive Portfolio
 
-## Contato
+### 📫 Contato
 
 LinkedIn:
-https://linkedin.com/in/moura22
+www.linkedin.com/in/moura22
