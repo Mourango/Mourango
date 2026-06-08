@@ -1,41 +1,65 @@
-# 👋 Gabriel Moura
+👨‍💻 Gabriel Moura da Silva
+Analista SOC Jr | IBM QRadar | Google SecOps | CrowdStrike Falcon | Investigação de Incidentes | Threat Monitoring | MITRE ATT&CK | Blue Team
 
-## Analista SOC Júnior
+Analista SOC Júnior com experiência em operações de segurança 24x7, atuando no monitoramento, triagem e investigação inicial de alertas de segurança.
+Experiência na análise de logs, autenticações, tráfego de rede e eventos de segurança utilizando SIEMs como IBM QRadar e Google SecOps.
 
-Atualmente atuando em um SOC 24x7 realizando monitoramento, triagem e investigação de eventos de segurança.
+🛡️ Sobre Mim
 
-### 🔎 Tecnologias
+🎯 Analista SOC N1
+🎓 Tecnólogo em Gestão da Tecnologia da Informação
+🎓 Graduando em Defesa Cibernética
+🌙 Experiência em operações SOC 24x7
+📍 São Paulo - SP
 
-- IBM QRadar
-- Google SecOps
-- MITRE ATT&CK
-- Threat Intelligence
-- Windows Security Events
-- Active Directory
+🔍 Áreas de Atuação
+Security Monitoring
+Incident Response
+Threat Intelligence
+Log Analysis
+Threat Hunting
+MITRE ATT&CK
+Security Operations Center (SOC)
 
-### 📚 Formação
+⚙️ Tecnologias
+SIEM
+IBM QRadar
+Google SecOps
+Segurança
+MITRE ATT&CK
+Threat Intelligence
+IOC Analysis
+Security Monitoring
+Infraestrutura
+Windows Security Events
+Active Directory
+Microsoft 365
 
-- Tecnólogo em Gestão da Tecnologia da Informação (Concluído)
-- Tecnólogo em Defesa Cibernética (Cursando)
+📂 Projetos
 
-### 🎯 Áreas de Interesse
+🔬 SOC Labs
+Documentação de cenários e investigações de segurança.
 
-- Security Operations Center (SOC)
-- Incident Response
-- Threat Hunting
-- Detection Engineering
-- Blue Team
+📋 SOC Assessments
+Provas e simulados para profissionais SOC.
 
-### 📂 Projetos
+📚 SOC Playbooks
+Playbooks operacionais para resposta a incidentes.
 
-🚧 Em construção
+🌐 Interactive Portfolio
+Portfólio profissional focado em Cyber Security.
 
-- SOC Labs
-- SOC Playbooks
-- SOC Assessments
-- Interactive Portfolio
+📜 Certificações
+IBSEC - Analista SOC
+IBSEC - Fundamentos em Cibersegurança
+IBSEC - Boas Práticas de Cibersegurança
+Cisco Networking Academy - Introdução à Cibersegurança
+LetsDefend - Fundamentos de SOC
 
-### 📫 Contato
+📫 Contato
 
-LinkedIn:
-www.linkedin.com/in/moura22
+💼 LinkedIn
+https://linkedin.com/in/moura22
+
+📧 E-mail
+gmoura008@gmail.com
